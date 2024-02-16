@@ -1,0 +1,53 @@
+speaker 1: Sí. Buenas tardes. Usted se ha comunicado con fondo Corp. ¿Mi nombre es Luis, en qué le puedo ayudar?
+speaker 2: ¿Hola Luis, sí, qué tal mira eh? Te llamo porque me quiero dar de baja, me quiero dar de baja del servicio.
+speaker 1: Perfecto señor, dígame su nombre de cliente por favor.
+speaker 2: Sí 398472.
+speaker 1: Bien el motivo de la baja.
+speaker 2: No que está carísimo, aumentó, aumentó no para de aumentar tampoco. Además, el servicio es muy bueno que digamos.
+speaker 1: ¿Disconformidad con el valor del servicio de 1 minuto, eh?
+speaker 2: Sí para el no pensó en realidad.
+speaker 1: Señor efecto de la baja.
+speaker 2: ¿Cómo que qué, qué?
+speaker 1: ¿Cosas que ya ha sido efectuada la baja, usted ya no es cliente de ono cuerpo?
+speaker 2: No como que ya no soy cliente.
+speaker 1: No, no llamo para darse de baja. Sí, bueno.
+speaker 2: ¿Bueno, pero en realidad se lo lo que quería viste cómo es que que que que sí que te hacen un descuento, una bonificación?
+speaker 1: ¿Y, por qué no me dijiste que querías un descuento y una bonificación?
+speaker 2: Bueno, no, sí, por lo general, cuando decís que te vas a dar de baja, te ofrecen ahí cuando.
+speaker 1: Mira hermano, no estoy para histeriqueos yo tampoco viste.
+speaker 2: Está bien, pero yo.
+speaker 1: ¿Pensaste mal, pensaste mal? Quería darte de baja listo te diste de baja.
+speaker 2: No, pero ya ahora no tengo más.
+speaker 1: Internet y no no tenemos internet.
+speaker 2: ¿Y pero qué?
+speaker 1: ¿Hago y qué es que yo boludo Leo un libro a masa masa madre qué se yo?
+speaker 2: ¿No pero José ojo, pero está todo El Mundo con la masa madre oíme cuándo me puedes ofrecer un descuento?
+speaker 1: ¿A qué cuenta?
+speaker 2: A la.
+speaker 1: Mía pero bueno, sos cliente, deberíamos darte de alta.
+speaker 2: Y.
+speaker 1: Bueno y bueno dos Lucas.
+speaker 2: Y Lucas.
+speaker 1: El pato Lucas dos, Lucas, boludo, darte de alta los costos de instalación y eso dos Lucas.
+speaker 2: Pero si yo ya tengo todo instalado.
+speaker 1: Pero hay que hacerlo de nuevo, flaco.
+speaker 2: ¿Pero por qué hay que hacer de?
+speaker 1: ¿Nuevo, por qué hay que hacer de nuevo la reconexión?
+speaker 2: Aquí me van a traer otro aparatito.
+speaker 1: No señor, si el suyo anda, vamos a usar ese.
+speaker 2: Y qué rico elección.
+speaker 1: No hay que desenchufarlo y volverlo a enchufar.
+speaker 2: ¿Pero eso lo puedo?
+speaker 1: ¿Hacer yo y usted está matriculado? No bueno, entonces está fuera de convenio, no lo puede hacer usted.
+speaker 2: Pero yo quería un.
+speaker 1: Descuento para la próxima ya sabes flaco si quieres un descuento del descuento algo más.
+speaker 2: ¿Pero cuándo viene lo de la red?
+speaker 1: Cuando se Levante la cuarentena, señor.
+speaker 2: ¿Pero y cuándo y cuándo se levanta la cuarentena?
+speaker 1: Que soy ginés González García pelotudo.
+speaker 2: No.
+speaker 1: No sé cuando termina la cuarentena que ser yo el año que viene el otro ni idea.
+speaker 2: Bueno.
+speaker 1: Algo más.
+speaker 2: Barbie hijo tiene.
+speaker 1: Chau flaco Chao Chao. El.

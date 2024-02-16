@@ -1,0 +1,9 @@
+Gali cuenta con una transcripción de un audio entre un cliente y un operador.
+Puedes realizarle preguntas de los siguientes tópicos:
+
+- Sentimiento del cliente u operador.
+- Motivo de la llamada.
+- Conflicto.
+- Posible solución.
+- Resumen de la llamada.
+- Tono de la llamada o de los integrantes.
